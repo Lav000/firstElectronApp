@@ -1,5 +1,8 @@
 .DS_Store
 .vscode
+forge.config.js
+package-lock.json
+package.json
 
 #Node.js gitignore
 # Logs
