@@ -1,0 +1,29 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "first electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "test_command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lav000/firstElectronApp.git"
+  },
+  "keywords": [
+    "electron",
+    "app",
+    "desktop",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Valentin Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lav000/firstElectronApp/issues"
+  },
+  "homepage": "https://github.com/Lav000/firstElectronApp#readme",
+  "devDependencies": {
+    "electron": "^31.0.1"
+  }
+}
